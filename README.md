@@ -17,22 +17,26 @@
 - 💬 Ask me about **HTML,CSS,Java Script , React**
 
 - 📫 How to reach me **sharma.harshit295@gmail.com**
-
+</hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/sharmaharshit26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sharmaharshit26" height="30" width="40" /></a>
+<a href="[https://twitter.com/https://twitter.com/sharmaharshit26](https://twitter.com/sharmaharshit26)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sharmaharshit26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-sharma-552038236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-sharma-552038236/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sharma_harshit295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sharma_harshit295" height="30" width="40" /></a>
+
+  <a href="https://harshitsharma2250.github.io/Portfolio_Harshit/" target="balnk"><img align="center" src="https://as1.ftcdn.net/v2/jpg/02/06/97/26/1000_F_206972633_vMR6ssJsqtCTfktgFe68L0H5exFJLWL7.jpg" alt="portfolio" height="40" width="40"/> </a>
+
+  
+<a href="https://drive.google.com/file/d/1Ux2spd9K0RDzjszTeZH7qbMnSoaWVAtp/view?usp=drive_link" target="blank">
+<img align="center" src="[[https://as1.ftcdn.net/v2/jpg/02/06/97/26/1000_F_206972633_vMR6ssJsqtCTfktgFe68L0H5exFJLWL7.jpg](https://cdn3.vectorstock.com/i/1000x1000/12/07/resume-icon-vector-22391207.jpg)](https://img.icons8.com/?size=50&id=23877&format=png)" alt="resume" height="30" width="40"/> 
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<h3>know more about me </h3>
-<a href="https://harshitsharma2250.github.io/Portfolio_Harshit/" target="balnk"> portfolio</a>
-<a href="https://drive.google.com/file/d/1Ux2spd9K0RDzjszTeZH7qbMnSoaWVAtp/view?usp=drive_link" target="blank">resume</a>
-</br>
-</br>
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitsharma2250&show_icons=true&locale=en&layout=compact" alt="harshitsharma2250" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitsharma2250&show_icons=true&locale=en" alt="harshitsharma2250" /></p>
