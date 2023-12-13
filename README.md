@@ -33,7 +33,7 @@
     <img align="center" src="https://as1.ftcdn.net/v2/jpg/02/06/97/26/1000_F_206972633_vMR6ssJsqtCTfktgFe68L0H5exFJLWL7.jpg" alt="Portfolio" height="40" width="40"/>
   </a>
 
-  <a href="https://drive.google.com/file/d/1Ux2spd9K0RDzjszTeZH7qbMnSoaWVAtp/view?usp=drive_link" target="_blank">
+  <a href="[https://drive.google.com/file/d/1Ux2spd9K0RDzjszTeZH7qbMnSoaWVAtp/view?usp=drive_link](https://drive.google.com/file/d/1NN4wwVguAA8qCTucNINS0cP8b__7iQ5O/view?usp=drive_link)" target="_blank">
     <img align="center" src="https://cdn3.vectorstock.com/i/1000x1000/12/07/resume-icon-vector-22391207.jpg" alt="Resume" height="30" width="40"/>
   </a>
 </p>
