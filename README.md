@@ -29,7 +29,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <a href="https://harshitsharma2250.github.io/Portfolio_Harshit/" target="_blank">
+  <a href="https://harshitsharma2250.github.io/" target="_blank">
     <img align="center" src="https://as1.ftcdn.net/v2/jpg/02/06/97/26/1000_F_206972633_vMR6ssJsqtCTfktgFe68L0H5exFJLWL7.jpg" alt="Portfolio" height="40" width="40"/>
   </a>
 
