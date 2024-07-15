@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Harshit Kumar Sharma</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A passionate FullStack Developer from Aligarh(UP)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsharma2250&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsharma2250" /> </p>
