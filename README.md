@@ -22,7 +22,8 @@
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="20" width="20">](https://twitter.com/sharmaharshit26)&nbsp;
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20">](https://www.linkedin.com/in/harshit-sharma-552038236/)&nbsp;
 [<img src="https://as1.ftcdn.net/v2/jpg/02/06/97/26/1000_F_206972633_vMR6ssJsqtCTfktgFe68L0H5exFJLWL7.jpg" height="20" width="20">](https://harshitsharma2250.github.io/)&nbsp;
-[<img src="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a53878403a9ded28bb5fcb")
+[<img src="https://t3.ftcdn.net/jpg/04/75/01/06/360_F_475010683_QcMoX9EuZkjVToNNtXCDbejMo4tIj06i.jpg"  height="20" width="20">](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a53878403a9ded28bb5fcb)&nbsp;
+
 
  <br>
  
