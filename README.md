@@ -36,7 +36,7 @@
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/harshit-sharma-552038236/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
-<a href="https://instagram.com/mr_uttam_mane_101"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
+<a href="https://www.instagram.com/harshitsharma1432/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
 <a href="https://twitter.com/sharmaharshit26"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30" /></a>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
