@@ -7,64 +7,73 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Kumar Sharma</h1>
 <h3 align="center">A passionate FullStack Developer from Aligarh(UP)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsharma2250&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsharma2250" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🌱 Creating things that live on the internet is a passion. A passionate Developer 👨‍💻, with strong administrative 🗂️ & communication skills 🗣️, good attention to detail 🔍 & the ability to write efficient code 💻. Specializing in crafting pixel-perfect designs 🎨 and implementing responsive layouts 📱 to deliver seamless and visually appealing websites 🌐.
 
-- 🌱 Currently immersed in the dynamic world of software development, I am driven by a relentless curiosity and a desire to grow. My journey is fueled by a passion for exploring diverse technologies and frameworks, allowing me to constantly enhance my skills and deliver innovative solutions.
- 
-- 📫 How to reach me **sharma.harshit295@gmail.com**
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitsharma2250&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsharma2250" />
+</div>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
+<img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
+🤓 Always learning new things.
+<br>
+<br>
+🤔 Check Out my <a href="https://drive.google.com/file/d/1AFhV_WpmWXsf67L8ugALEFEpFL8a2mJS/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
 <br><br>
- ### 🌐 Connect With Me:
- ***
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30">](https://twitter.com/sharmaharshit26)&nbsp;
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30">](https://www.linkedin.com/in/harshit-sharma-552038236/)&nbsp;
-[<img src="https://as1.ftcdn.net/v2/jpg/02/06/97/26/1000_F_206972633_vMR6ssJsqtCTfktgFe68L0H5exFJLWL7.jpg" height="30" width="30">](https://harshitsharma2250.github.io/)&nbsp;
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-iltHYAGjz02lAHus3OoTPCyjVN32vL8UHlvhBJ9ZRGS2DAW0Nns8SoB59fKsb4LrTA&usqp=CAU"  height="30" width="40">](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a53878403a9ded28bb5fcb)&nbsp;
+👨‍💻 Know more about me <a href="https://harshitsharma2250.github.io/" style="color: rgb(250, 111, 50);">Portfolio</a>
+<br><br>
+⚡ How to reach me <a href="mailto:sharma.harshit295@gmail.com" style="color:rgb(250, 111, 50);">sharma.harshit295@gmail.com</a>
+
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 
- <br>
- 
-### Languages and Tools:
+<div align="center">
 
- ---
+# 🌐 Socials:
+<a href="https://www.linkedin.com/in/harshit-sharma-552038236/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
+<a href="https://instagram.com/mr_uttam_mane_101"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
+<a href="https://twitter.com/sharmaharshit26"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30" /></a>
 
-<div >
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  height="40" width="40" alt="html5" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" width="40"  alt="css3"  /> &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="js" /> &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://cdn-icons-png.flaticon.com/128/136/136525.png" alt="json" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" width="40" alt="react" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" height="40" width="40" alt="babel" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.icons8.com/?size=24&id=112745&format=png" alt="XML" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://res.cloudinary.com/webalys/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/react-router-afaraavuno5ulxx3m6dqif.png/react-router-iz5gsrt4bescjzyay2otud.png?_a=DAJFJtWIZAAC5" alt="react-router" width="40" height="40"/>  &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="40" alt="redux" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"  alt="node.js" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" width="40"  alt="express" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40"  alt="mongodb" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="40" width="40"  alt="heroku for deployment backend" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40"  alt="postman shoftware" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.icons8.com/?size=48&id=24895&format=png" alt="npm" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://logowik.com/content/uploads/images/netlify-new-20234970.logowik.com.webp" height="60" width="60" alt="netlify" />  &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40" alt="git" />  &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://miro.medium.com/v2/resize:fit:1400/1*R6yycVi9tckn-0LibUBsZA.png" alt="chakra" weight="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png" alt="vs code" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.icons8.com/?size=48&id=63777&format=png" alt="git hub" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40" width="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
+# 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](htthttpsps://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?&style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"> ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chartdotjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 </div>
 
 
-<br><br>
+# 📊 GitHub Stats:
 
-### <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6dPZlWKwtq_NWeJdiMVupSF5dPwcDGEbwfBlzWgPdzDh0rjmO" height="20" width="20" />  Github Status :
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitsharma2250&show_icons=true&locale=en&layout=compact" alt="harshitsharma2250" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitSharma2250&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitSharma2250&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=HarshitSharma2250&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitsharma2250&show_icons=true&locale=en" alt="harshitsharma2250" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitsharma2250&" alt="harshitsharma2250" /></p>
-c](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+
+
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitSharma2250&theme=2077" alt="HarshitSharma2250" width="100%"   />
+
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitSharma2250&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+  <img src="https://github-profile-trophy.vercel.app?username=HarshitSharma2250&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
+
+  
+</div>
